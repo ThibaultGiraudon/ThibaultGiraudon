@@ -17,19 +17,7 @@ Current project :
   <a href="https://github.com/eliaszanotti/minishell" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eliaszanotti&repo=minishell&theme=cobalt""></a>
    </p>
 
-Old project :
-
-[Philo](https://github.com/Thib1708/philo)
-
-[Push swap](https://github.com/Thib1708/push_swap)
-
-[Pipex](https://github.com/Thib1708/pipex)
-
-[Fdf](https://github.com/Thib1708/fdf)
-
-[Get next line](https://github.com/Thib1708/get_next_line)
-
-[Printf](https://github.com/Thib1708/printf)
+### ⚡ GitHub Stats   
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Thib1708&show_icons=true&theme=cobalt" alt="Thib1708" />
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thib1708&layout=compact&count_private=true&theme=cobalt" />
