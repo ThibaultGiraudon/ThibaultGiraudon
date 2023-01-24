@@ -13,7 +13,9 @@ Language :
 </p>
 
 Current project :
-[Minishell](https://github.com/eliaszanotti/minishell)
+<p>
+  <a href="https://github.com/eliaszanotti/minishell" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eliaszanotti&repo=minishell&theme=cobalt""></a>
+   </p>
 
 Old project :
 
@@ -29,4 +31,5 @@ Old project :
 
 [Printf](https://github.com/Thib1708/printf)
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Thib1708&show_icons=true&theme=gotham" alt="Thib1708" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Thib1708&show_icons=true&theme=cobalt" alt="Thib1708" />
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thib1708&layout=compact&count_private=true&theme=cobalt" />
