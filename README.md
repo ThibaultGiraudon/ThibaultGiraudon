@@ -2,7 +2,7 @@
  <img src="https://gpvc.arturio.dev/Thib1708" alt="profile views">
 Reach me :
 <p><br>
-<a href="https://profile.intra.42.fr/users/tgiraudo"> <img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/42.svg" alt="42"><a/>
+<a href="https://profile.intra.42.fr/users/tgiraudo"> <img height="32" width="32" src="https://raw.githubusercontent.com/Thib1708/Thib1708/e4751b5f7c75ebbe8f0314ac46d46636d2391984/assets/download.svg" alt="42"><a/>
   <a href="https://profile.intra.42.fr/users/tgiraudo"> <img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" alt="Github"><a/>
   <a href="https://www.linkedin.com/in/thibault-giraudon-547913240/"><img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/></a> 
   <a href="https://www.instagram.com/thibault.giraudon/" target="_blank"><img height="32" width="32" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" alt="Instagram"/></a>
