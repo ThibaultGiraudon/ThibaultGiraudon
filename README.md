@@ -14,7 +14,7 @@ Language :
 
 Current project :
 <p>
-  <a href="https://github.com/eliaszanotti/minishell" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eliaszanotti&repo=minishell&theme=cobalt""></a>
+  <a href="https://github.com/Thib1708/print_news" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Thib1708&repo=print_news&theme=cobalt""></a>
    </p>
 
 ### ⚡ GitHub Stats   
