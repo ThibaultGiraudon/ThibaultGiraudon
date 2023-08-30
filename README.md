@@ -37,7 +37,7 @@ Reach me :
 <details close>
   <summary><b>Personnal projects</b></summary>
  
-   * [<kbd>Basket](l9)<img height="13" width="13" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/swift.svg" alt="c">
+   * [<kbd>Basket](l9) <img height="15" width="13" src="https://github.com/Thib1708/Thib1708/blob/main/assets/swift-icon.svg" alt="swift">
  </details>
 </p>
 Language : 
