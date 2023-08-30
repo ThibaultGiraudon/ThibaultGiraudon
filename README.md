@@ -17,7 +17,7 @@ Current project :
   <a href="https://github.com/eliaszanotti/cub3D" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eliaszanotti&repo=cub3D&theme=cobalt""></a>
    </p>
 
-### ⚡ GitHub Stats   
+### GitHub Stats   
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Thib1708&show_icons=true&theme=cobalt" alt="Thib1708" />
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thib1708&layout=compact&count_private=true&theme=cobalt" />
+<p><img src="https://github-readme-stats.vercel.app/api?username=Thib1708&show_icons=true&theme=cobalt" alt="Thib1708" />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thib1708&layout=compact&count_private=true&theme=cobalt" />
