@@ -40,10 +40,6 @@ Reach me :
    * [<kbd>Basket](l9) <img height="15" width="13" src="https://github.com/Thib1708/Thib1708/blob/main/assets/swift-icon.svg" alt="swift">
  </details>
 </p>
-Language : 
-<p><br>
-  <img height="32" width="32" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c">
-</p>
 
 ### GitHub Stats   
 
