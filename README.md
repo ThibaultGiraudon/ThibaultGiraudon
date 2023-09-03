@@ -37,5 +37,6 @@ Reach me with :
 
 ## GitHub Stats   
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Thib1708&show_icons=true&theme=dark" alt="Thib1708" />
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thib1708&layout=compact&count_private=true&theme=dark" />
+<p display="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thib1708&theme=transparent"/>
+<p display="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thib1708&theme=transparent"
+   display="left"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thib1708&theme=transparent"/>
