@@ -20,12 +20,14 @@ Reach me with :
    * [<kbd>Philosophers](https://github.com/Thib1708/philo) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c">
    * [<kbd>Cub3D](https://github.com/eliaszanotti/cub3D) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c">
    * [<kbd>CppModules](https://github.com/Thib1708/cpp00)
-     * [<kbd>Cpp00](https://github.com/Thib1708/cpp00) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c">
-     * [<kbd>Cpp01](https://github.com/Thib1708/cpp01) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c">
-     * [<kbd>Cpp02](https://github.com/Thib1708/cpp02) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c">
-     * [<kbd>Cpp03](https://github.com/Thib1708/cpp03) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c">
-     * [<kbd>Cpp04](https://github.com/Thib1708/cpp04) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c">
-     * [<kbd>Cpp05](https://github.com/Thib1708/cpp05) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c">
+     * [<kbd>Cpp00](https://github.com/Thib1708/cpp00) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++">
+     * [<kbd>Cpp01](https://github.com/Thib1708/cpp01) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++">
+     * [<kbd>Cpp02](https://github.com/Thib1708/cpp02) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++">
+     * [<kbd>Cpp03](https://github.com/Thib1708/cpp03) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++">
+     * [<kbd>Cpp04](https://github.com/Thib1708/cpp04) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++">
+     * [<kbd>Cpp05](https://github.com/Thib1708/cpp05) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++">
+     * [<kbd>Cpp06](https://github.com/Thib1708/cpp06) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++">
+     * [<kbd>Cpp07](https://github.com/Thib1708/cpp07) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++">
  </details>
  
 <details close>
