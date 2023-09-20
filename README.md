@@ -19,7 +19,7 @@ Reach me with :
    * [<kbd>Minishell](https://github.com/Thib1708/minishell) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c">
    * [<kbd>Philosophers](https://github.com/Thib1708/philo) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c">
    * [<kbd>Cub3D](https://github.com/eliaszanotti/cub3D) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c">
-   * [<kbd>CppModules](https://github.com/Thib1708/cpp00)
+   * [<kbd>CppModules](https://github.com/Thib1708/CppModules)
      * [<kbd>Cpp00](https://github.com/Thib1708/cpp00) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++">
      * [<kbd>Cpp01](https://github.com/Thib1708/cpp01) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++">
      * [<kbd>Cpp02](https://github.com/Thib1708/cpp02) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++">
@@ -28,6 +28,8 @@ Reach me with :
      * [<kbd>Cpp05](https://github.com/Thib1708/cpp05) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++">
      * [<kbd>Cpp06](https://github.com/Thib1708/cpp06) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++">
      * [<kbd>Cpp07](https://github.com/Thib1708/cpp07) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++">
+     * [<kbd>Cpp08](https://github.com/Thib1708/cpp08) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++">
+     * [<kbd>Cpp09](https://github.com/Thib1708/cpp09) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++">
  </details>
  
 <details close>
