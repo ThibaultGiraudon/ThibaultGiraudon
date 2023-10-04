@@ -30,7 +30,7 @@ Reach me with :
      * [<kbd>Cpp07](https://github.com/Thib1708/cpp07) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++">
      * [<kbd>Cpp08](https://github.com/Thib1708/cpp08) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++">
      * [<kbd>Cpp09](https://github.com/Thib1708/cpp09) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++">
-     * [<kbd>IRC](https://github.com/eliaszanotti/irc) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++">
+   * [<kbd>IRC](https://github.com/eliaszanotti/irc) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++">
  </details>
  
 <details close>
