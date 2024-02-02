@@ -39,6 +39,7 @@ Reach me with :
   <summary><b>Personnal project</b></summary>
  
    * [<kbd>BCMF](https://github.com/Thib1708/BCMF) <img height="15" width="13" src="https://github.com/Thib1708/Thib1708/blob/main/assets/swift-icon.svg" alt="swift">
+   * [<kbd>FirebasePhotoPicker](https://github.com/Thib1708/FirebasePhotoPicker) <img height="15" width="13" src="https://github.com/Thib1708/Thib1708/blob/main/assets/swift-icon.svg" alt="swift">
  </details>
 </p>
 
