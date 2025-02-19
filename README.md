@@ -4,6 +4,7 @@ Reach me with :
   * [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=%230A66C2&logo=linkedin)](https://www.linkedin.com/in/thibault-giraudon-547913240/)
   * [![tgiraudo](https://img.shields.io/static/v1?label=&message=tgiraudo&color=000000&logo=42)](https://profile.intra.42.fr/users/tgiraudo)
   * [![Gmail](https://img.shields.io/static/v1?label=&message=Gmail&color=%23808080&logo=gmail)](mailto:thibault.giraudon@gmail.com)
+  * [![Medium](https://img.shields.io/static/v1?label=&message=Medium&color=000000&logo=medium)](https://medium.com/@thibault.giraudon)
 
 ## Project:
 <p>
