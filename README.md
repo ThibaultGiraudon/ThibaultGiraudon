@@ -11,6 +11,7 @@ Reach me with :
 
 <details close>
   <summary><b>OpenClassrooms project</b></summary>
+ 
    * [<kbd>TravelVista](https://github.com/ThibaultGiraudon/P9_IOS_TravelVista.git) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
    * [<kbd>Arista](https://github.com/ThibaultGiraudon/Arista) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
    * [<kbd>Vitesse](https://github.com/ThibaultGiraudon/Vitesse) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
