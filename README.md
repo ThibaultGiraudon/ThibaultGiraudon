@@ -8,6 +8,29 @@ Reach me with :
 
 ## Project:
 <p>
+
+<details close>
+  <summary><b>OpenClassrooms project</b></summary>
+   * [<kbd>TravelVista](https://github.com/ThibaultGiraudon/P9_IOS_TravelVista.git) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
+   * [<kbd>Arista](https://github.com/ThibaultGiraudon/Arista) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
+   * [<kbd>Vitesse](https://github.com/ThibaultGiraudon/Vitesse) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
+   * [<kbd>Aura](https://github.com/ThibaultGiraudon/Aura) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
+ 
+ </details>
+</p>
+
+<details close>
+  <summary><b>Personnal project</b></summary>
+ 
+   * [<kbd>CarVision](https://github.com/ThibaultGiraudon/CarVision) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
+   * [<kbd>profil42](https://github.com/ThibaultGiraudon/profil42) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
+   * [<kbd>BCMF](https://github.com/ThibaultGiraudon/BCMF) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
+   * [<kbd>GiftMeUp](https://github.com/ThibaultGiraudon/GiftMeUp) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
+   * [<kbd>FirebasePhotoPicker](https://github.com/ThibaultGiraudon/FirebasePhotoPicker) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
+   * [<kbd>HabitTracker](https://github.com/ThibaultGiraudon/HabitTracker) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
+   * [<kbd>FuelTracker](https://github.com/ThibaultGiraudon/FuelTracker) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
+ </details>
+</p>
  
 <details close> <summary><b>42 projects</b></summary>
    
@@ -35,17 +58,6 @@ Reach me with :
    * [<kbd>Inception](https://github.com/ThibaultGiraudon/inception) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker">
    * [<kbd>Transcendence](https://github.com/ThibaultGiraudon/transcendence) <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker"> <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="docker"> <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="docker"> <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="docker"> <img height="13" width="13" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="docker">
  </details>
- 
-<details close>
-  <summary><b>Personnal project</b></summary>
- 
-   * [<kbd>BCMF](https://github.com/ThibaultGiraudon/BCMF) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
-   * [<kbd>FirebasePhotoPicker](https://github.com/ThibaultGiraudon/FirebasePhotoPicker) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
-   * [<kbd>CarVision](https://github.com/ThibaultGiraudon/CarVision) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
-   * [<kbd>HabitTracker](https://github.com/ThibaultGiraudon/HabitTracker) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
-   * [<kbd>FuelTracker](https://github.com/ThibaultGiraudon/FuelTracker) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
- </details>
-</p>
 
 ## GitHub Stats   
 
