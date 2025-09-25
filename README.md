@@ -2,7 +2,6 @@
 
 Reach me with :
   * [![Linkedin](https://img.shields.io/static/v1?label=&message=Linkedin&color=%230A66C2&logo=linkedin)](https://www.linkedin.com/in/thibault-giraudon-547913240/)
-  * [![tgiraudo](https://img.shields.io/static/v1?label=&message=tgiraudo&color=000000&logo=42)](https://profile.intra.42.fr/users/tgiraudo)
   * [![Gmail](https://img.shields.io/static/v1?label=&message=Gmail&color=%23808080&logo=gmail)](mailto:thibault.giraudon@gmail.com)
   * [![Medium](https://img.shields.io/static/v1?label=&message=Medium&color=000000&logo=medium)](https://medium.com/@thibault.giraudon)
 
@@ -12,7 +11,8 @@ Reach me with :
 <details close>
   <summary><b>OpenClassrooms project</b></summary>
  
-   * [<kbd>TravelVista](https://github.com/ThibaultGiraudon/P9_IOS_TravelVista.git) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
+   * [<kbd>MediStock](https://github.com/ThibaultGiraudon/Rebonnte.git) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
+   * [<kbd>Eventorias](https://github.com/ThibaultGiraudon/Eventorias.git) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
    * [<kbd>Arista](https://github.com/ThibaultGiraudon/Arista) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
    * [<kbd>Vitesse](https://github.com/ThibaultGiraudon/Vitesse) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
    * [<kbd>Aura](https://github.com/ThibaultGiraudon/Aura) <img height="15" width="13" src="https://github.com/ThibaultGiraudon/ThibaultGiraudon/blob/main/assets/swift-icon.svg" alt="swift">
