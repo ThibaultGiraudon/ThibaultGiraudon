@@ -23,6 +23,15 @@ data persistence, async/await and user-centric applications.
 
 ## 📱 Featured iOS Projects
 
+### 🍽️ What'sForDinner - Meal management app
+
+* SwiftUI app to hepl choose dinner
+* Random dish selection
+* Data persitence with CoreData
+* MVVM and repository patern
+
+🔗 [Repository](https://github.com/ThibaultGiraudon/What-sForDinner)
+
 ### 💤 Arista — iOS Sleep & Activity Tracking App
 
 * SwiftUI app to track sleep and exercise sessions
